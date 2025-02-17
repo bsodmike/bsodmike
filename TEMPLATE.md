@@ -1,15 +1,10 @@
 ### Hey!
 
-👾 I'm **Mike**.
+👋 I'm **Mike**
 
-🦀 An engineer with a curious mind :3
+🦀 An engineer with a curious mind. I like to [share things I learn](https://desilva.io/) on my blog :3
 
 [![views](https://komarev.com/ghpvc/?username=bsodmike&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/bsodmike)
-
-<br>
-<br>
-<br>
-<br>
 
 #### ⚡ Stats
 
