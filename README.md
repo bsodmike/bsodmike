@@ -1,19 +1,14 @@
 ### Hey!
 
-👾 I'm **Mike**.
+👋 I'm **Mike**
 
-🦀 An engineer with a curious mind :3
+🦀 An engineer with a curious mind. I like to [share things I learn](https://desilva.io/) on my blog :3
 
 [![views](https://komarev.com/ghpvc/?username=bsodmike&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/bsodmike)
 
-<br>
-<br>
-<br>
-<br>
-
 #### ⚡ Stats
 
-I joined GitHub **14** years ago and since then I have pushed **5220** commits, opened **107** issues, submitted **133** PRs, received **239** stars across **115** personal projects and contributed to **23** public repositories.
+I joined GitHub **14** years ago and since then I have pushed **5223** commits, opened **107** issues, submitted **133** PRs, received **239** stars across **115** personal projects and contributed to **23** public repositories.
 
 #### 🌀 Projects
 
