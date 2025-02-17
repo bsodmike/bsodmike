@@ -23,7 +23,7 @@ jobs:
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
             git config user.name 'Michael de Silva'
-            git config user.email 'michael_eca@proton.me'
+            git config user.email 'michael@mwdesilva.com'
             git add *.md
             git commit -m "Update README.md"
             git push
