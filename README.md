@@ -8,7 +8,7 @@
 
 #### ⚡ Stats
 
-I joined GitHub **14** years ago and since then I have pushed **5344** commits, opened **108** issues, submitted **134** PRs, received **241** stars across **115** personal projects and contributed to **21** public repositories.
+I joined GitHub **14** years ago and since then I have pushed **5757** commits, opened **108** issues, submitted **136** PRs, received **241** stars across **117** personal projects and contributed to **13** public repositories.
 
 #### 🌀 Projects
 
@@ -25,4 +25,3 @@ I joined GitHub **14** years ago and since then I have pushed **5344** commits, 
 **~** [_desilva.io_](https://desilva.io/)
 
 </div>
-
